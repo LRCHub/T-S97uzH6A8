@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Holiday Party",
+  "base_artist": "Weeekly",
+  "createdAt": "2025-12-30T16:06:31.889581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vamos a la Discoteca - Holiday Party Remix",
+      "artist": "Paradisio",
+      "has_synced": false,
+      "path": "select/01_Vamos_a_la_Discoteca_-_Holiday_Party_Remix_Paradisio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "…At The Holiday Party",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/02_...At_The_Holiday_Party_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Holiday Party",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/03_Holiday_Party_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Holiday Party",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/04_Holiday_Party_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holiday Party",
+      "artist": "Weeekly (위클리)",
+      "has_synced": true,
+      "path": "select/05_Holiday_Party_Weeekly_(위클리).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holiday Party",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/06_Holiday_Party_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holiday Party (I Did a Little Cocaine Tonight)",
+      "artist": "Alex Brightman",
+      "has_synced": false,
+      "path": "select/07_Holiday_Party_(I_Did_a_Little_Cocaine_Tonight)_Alex_Brightman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Gabby Cat Holiday Party",
+      "artist": "Gabby's Dollhouse",
+      "has_synced": true,
+      "path": "select/08_A_Gabby_Cat_Holiday_Party_Gabby's_Dollhouse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Holiday Party",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/09_Holiday_Party_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Holiday Party - Dan + Shay",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/10_Holiday_Party_-_Dan_+_Shay_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disney Junior Music: Mickey's Holiday Party",
+      "artist": "Felicia Barton",
+      "has_synced": false,
+      "path": "select/11_Disney_Junior_Music__Mickey's_Holiday_Party_Felicia_Barton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vamos a la Discoteca (Holiday Party Remix)",
+      "artist": "Paradisio",
+      "has_synced": false,
+      "path": "select/12_Vamos_a_la_Discoteca_(Holiday_Party_Remix)_Paradisio.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holiday Party",
+      "artist": "Weeekly",
+      "has_synced": false,
+      "path": "select/pl_01_Holiday_Party_Weeekly.txt"
+    }
+  ]
+}
